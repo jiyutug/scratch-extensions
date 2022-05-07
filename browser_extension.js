@@ -41,5 +41,5 @@
     };
 
     ScratchExtensions.register('Browser Stuff', descriptor, ext);
-})({});
+})({});hiihxsgjva12 'openTab', 'https://scratch.mit.edu/
 
